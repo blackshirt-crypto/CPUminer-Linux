@@ -19,7 +19,7 @@ Open a terminal and run these commands:
 
 ```bash
 # Download the setup script
-curl -O https://raw.githubusercontent.com/scratcher14/cpuminer-opt-desktop/main/setup_cpuminer.sh
+curl -O https://raw.githubusercontent.com/scratcher14/CPUminer-opt-Linux/main/setup_cpuminer.sh
 
 # Make it executable
 chmod +x setup_cpuminer.sh
